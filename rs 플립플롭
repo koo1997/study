@@ -1,1 +1,16 @@
 https://m.cafe.daum.net/dkups.co.kr/RvTL/80?svc=cafeapi
+
+RS플립플롭
+0 0 변화없음
+0 1 0
+1 0 1 
+1 1 할수없음 불
+JK 플립플롭
+0 0 변화없음
+0 1 0
+1 0 1 
+1 1 보수(반대)
+
+T 플립플롭
+0 무
+1 보수
